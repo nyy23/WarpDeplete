@@ -1,5 +1,6 @@
 ## Interface: 100105
 ## Title: WarpDeplete
+## Notes: WarpDeplete - Mythic+ Timer
 ## Notes-ruRU: WarpDeplete - таймер для подземелий М+ с гибкими настройками
 ## Author: Happens
 ## Version: 2.6.2
